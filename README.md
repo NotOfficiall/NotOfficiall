@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotOfficiall
-- 👀 I’m interested in security and coding
+- 👀 I’m interested in IT-security and coding + Arduino
 - 🌱 I’m currently learning python and kali linux
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me /
